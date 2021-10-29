@@ -1,5 +1,5 @@
 <h1 align="center">
-    Traingenerator
+    FlaskAppGenerator
 </h1>
 
 <p align="center">
